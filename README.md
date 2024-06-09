@@ -25,7 +25,7 @@
 
 ##### Clone the latest Repository
 
-`git clone https://github.com/spandey6395/Habit_Tracker.git`
+`https://github.com/GoswamiAashish/Habit-Tracker.git`
 
 
 ##### Installing NPM dependencies
